@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912783622753",
+    "project_id": "overbloom-35f23",
+    "storage_bucket": "overbloom-35f23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912783622753:android:545806eddcf0157f2d2020",
+        "android_client_info": {
+          "package_name": "com.example.overbloom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEDL9D2kBCoRlJqcuZNCvRiU7HH6qsZDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
